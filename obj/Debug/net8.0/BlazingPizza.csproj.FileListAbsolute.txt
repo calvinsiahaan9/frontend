@@ -1029,3 +1029,4 @@ C:\Users\calvi\source\repos\BlazingPizza\BlazingPizza\obj\Debug\net8.0\BlazingPi
 C:\Users\calvi\source\repos\BlazingPizza\BlazingPizza\obj\Debug\net8.0\refint\BlazingPizza.dll
 C:\Users\calvi\source\repos\BlazingPizza\BlazingPizza\obj\Debug\net8.0\BlazingPizza.pdb
 C:\Users\calvi\source\repos\BlazingPizza\BlazingPizza\obj\Debug\net8.0\ref\BlazingPizza.dll
+C:\Users\calvi\source\repos\BlazingPizza\BlazingPizza\obj\Debug\net8.0\BlazingPizza.sourcelink.json
